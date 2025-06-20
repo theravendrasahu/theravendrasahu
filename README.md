@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **Ravendra Sahu**  
+                                                          # 👋 Hi, I'm **Ravendra Sahu**  
 
-### 🔍 Junior Data Analyst | Excel • Power BI • SQL • Python • Automation
+                                    ### 🔍 Junior Data Analyst | Excel • Power BI • SQL • Python • Automation
 
 I’m a Data Analyst at HCLTech with 2 + years of experience turning raw numbers into business-ready insights using Power BI, SQL, Python and VBA[1].  
 My daily toolkit includes DAX, Power Query, MS Fabric, Pandas, matplotlib and automated workflows built with Power Automate & VBA[1].
