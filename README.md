@@ -73,7 +73,7 @@ When I’m not coding, you’ll find me in the gym, reading sci-fi, or playing c
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 English and Hindi
 
 ---
