@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm **Ravendra Sahu**
+<h1 align="center">👋 Hi, I'm Ravendra Sahu
 
 <h3 align="center">🔍 Junior Data Analyst | Excel • Power BI • SQL • Python • Automation
 
