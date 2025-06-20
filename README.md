@@ -69,7 +69,7 @@ When I’m not coding, you’ll find me in the gym, reading sci-fi, or playing c
 
 - 📧 Email: sahuravendra0@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/theravendrasahu)
-- Kaggle: kaggle.com/ravendrasahu
+- [Kaggle](https://www.kaggle.com/ravendrasahu
 
 ---
 
@@ -83,14 +83,3 @@ Thanks for visiting! Feel free to check out my repositories, collaborate, or rea
 ---
 
 **_“Data is the new oil, but insight is the spark that sets it alight.”_**
-
----
-
-**References:**  
-[2] Resume and skills  
-[1] MSc Data Science in progress  
-[3] Learning SQL and PostgreSQL
-
-[1] education.data_science
-[2] work.data_analysis
-[3] learning.programming_languages
