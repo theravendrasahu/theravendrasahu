@@ -63,7 +63,7 @@ When I’m not coding, you’ll find me in the gym, reading sci-fi, or playing c
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lakkilohitha" target="_blank">Follow on LinkedIn</a>
 </p>
     
-<a class="libutton" href="[https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lakkilohitha](https://www.linkedin.com/in/theravendrasahu)" target="_blank">Follow on LinkedIn</a>
+<h3 align="center"> <a class="libutton" href="[https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lakkilohitha](https://www.linkedin.com/in/theravendrasahu)" target="_blank">Follow on LinkedIn</a>
 
 
 - 📧 Email: sahuravendra0@gmail.com
