@@ -4,20 +4,17 @@
 
 ---
 
-## 🔭 What I'm Working On
+I’m a Data Analyst at HCLTech with 2 + years of experience turning raw numbers into business-ready insights using Excel Power BI, SQL, Python and VBA[1].  
+My daily toolkit includes DAX, Power Query, MS Fabric, Pandas, matplotlib and automated workflows built with Power Automate & VBA[1].
 
-- 📊 **Data Analytics Projects:** Transforming raw data into actionable insights for business growth.
-- 📈 **Dashboards & Automation:** Building interactive dashboards and automating workflows using Power BI, SQL, Python, and VBA.
-- 🛠️ **Process Optimization:** Leveraging Power Automate and MS Fabric to streamline reporting pipelines.
+## 🔧 Tech Stack [1]
 
----
-
-## 🌱 Currently Learning & Growing
-
-- 🚀 **Advanced Python for Data Science:** Deepening skills in Pandas, NumPy, matplotlib, and automation.
-- 📘 **SQL Mastery:** Exploring complex queries, CTEs, and performance tuning with PostgreSQL and SQL Server.
-- 📊 **Power BI & DAX:** Creating impactful, dynamic dashboards with advanced DAX and Power Query.
-- 🤖 **Automation Tools:** Enhancing productivity with VBA, Power Automate, and Power Apps.
+- Power BI • DAX • Power Query[1]  
+- SQL (joins, CTEs, indexing) and relational database design[1]  
+- Python (Pandas, NumPy, Seaborn, matplotlib) for data wrangling & EDA[1]  
+- Excel, PivotTables & VBA for rapid automation[1]  
+- Power Apps, Power Automate & MS Fabric for end-to-end reporting pipelines[1]  
+- Statistical analysis, A/B & hypothesis testing for data-driven decisions[1]
 
 ---
 
@@ -25,9 +22,9 @@
 
 - 💻 **Programming:** Python, SQL, VBA, Excel
 - 📊 **Visualization:** Power BI, matplotlib, Seaborn
-- 📂 **Data Handling:** Pandas, NumPy, Power Query
-- 🗄️ **Databases:** SQL Server, PostgreSQL, MySQL
-- ⚙️ **Automation:** Power Automate, Power Apps, MS Fabric
+- 📂 **Data Handling:** Pandas, NumPy, Power Query, Dax
+- 🗄️ **Databases:** SQL Server, PostgreSQL
+- ⚙️ **Automation:** VBA, Power Automate, Power Apps, Python
 
 ---
 
