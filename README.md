@@ -4,17 +4,17 @@
 
 ---
 
-I’m a Data Analyst at HCLTech with 2.5 + years of experience turning raw numbers into business-ready insights using Excel, Power BI, SQL, Python and VBA[1].  
+I’m a Data Analyst at HCLTech with 2.5 + years of experience turning raw numbers into business-ready insights using Excel, Power BI, SQL, Python and VBA.  
 My daily toolkit includes Excel, SQL, Power BI, DAX, Power Query, Pandas, matplotlib and automated workflows built with Power Automate & VBA.
 
-## 🔧 Tech Stack [1]
+## 🔧 Tech Stack
 
-- Power BI • DAX • Power Query[1]  
-- SQL (joins, CTEs, indexing) and relational database design[1]  
-- Python (Pandas, NumPy, Seaborn, matplotlib) for data wrangling & EDA[1]  
-- Excel, PivotTables & VBA for rapid automation[1]  
-- Power Apps, Power Automate & MS Fabric for end-to-end reporting pipelines[1]  
-- Statistical analysis, A/B & hypothesis testing for data-driven decisions[1]
+- Power BI • DAX • Power Query.  
+- SQL (joins, CTEs, indexing) and relational database design.
+- Python (Pandas, NumPy, Seaborn, matplotlib) for data wrangling & EDA.
+- Excel, PivotTables & VBA for rapid automation.  
+- Power Apps, Power Automate & MS Fabric for end-to-end reporting pipelines.
+- Statistical analysis, A/B & hypothesis testing for data-driven decisions.
 
 ---
 
@@ -42,7 +42,7 @@ My daily toolkit includes Excel, SQL, Power BI, DAX, Power Query, Pandas, matplo
 
 ## 🎓 Education & Certifications
 
-- MSc Data Science (in progress) – Focused on practical, industry-relevant topics[1]
+- MSc Data Science (in progress) – Focused on practical, industry-relevant topics.
 - B.Sc. (Hons) Physics — Hansraj College, University of Delhi
 - Google Data Analytics Professional Certificate
 - Data Analyst in Python — DataCamp
