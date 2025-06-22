@@ -24,7 +24,7 @@ My daily toolkit includes Excel, SQL, Power BI, DAX, Power Query, Pandas, matplo
 - 📊 **Visualization:** Power BI, matplotlib, Seaborn
 - 📂 **Data Handling:** Pandas, NumPy, Power Query, Dax
 - 🗄️ **Databases:** SQL Server, PostgreSQL
-- ⚙️ **Automation:** VBA, Power Automate, Power Apps, Python
+- ⚙️ **Automation:** VBA, Power Automate
 
 ---
 
