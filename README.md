@@ -4,7 +4,7 @@
 
 ---
 
-I’m a Data Analyst with ~3 years of experience turning raw numbers into business-ready insights using Excel, Power BI, SQL, Python and VBA.  
+I’m a Data Analyst with 3+ years of experience turning raw numbers into business-ready insights using Excel, Power BI, SQL, Python and VBA.  
 My daily toolkit includes Excel, SQL, Power BI, DAX, Power Query, Pandas, matplotlib and automated workflows built with Power Automate & VBA.
 
 ## 🔧 Tech Stack
