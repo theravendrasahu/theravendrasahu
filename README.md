@@ -4,13 +4,12 @@
 
 ---
 
-I’m a Data Analyst with 3+ years of experience turning raw numbers into business-ready insights using Excel, Power BI, SQL, Python and VBA.  
-My daily toolkit includes Excel, SQL, Power BI, DAX, Power Query, Pandas, matplotlib and automated workflows built with Power Automate & VBA.
+I’m a Data Analyst with 4 years of experience turning raw numbers into business-ready insights using Snowflake, Fabric, Power BI, SQL, Python, Excel and VBA.  
 
 ## 🔧 Tech Stack
 
 - Power BI • DAX • Power Query.  
-- SQL (joins, CTEs, indexing) and relational database design.
+- Snowflake SQL (joins, CTEs, indexing) and relational database design.
 - Python (Pandas, NumPy, Seaborn, matplotlib) for data wrangling & EDA.
 - Excel, PivotTables & VBA for rapid automation.  
 - Power Apps, Power Automate & MS Fabric for end-to-end reporting pipelines.
